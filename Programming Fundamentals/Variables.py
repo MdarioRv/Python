@@ -1,5 +1,12 @@
 #Variables 
-#Son donde guardamos algun tipo de dato especifico 
+""""
+Nos permite guardar valores pudiendo reutilizarlos en diferentes partes del código.
+Para crear una variable en python debes especificar el nombre de la variable y luego asignarle un valor
+
+<variable name> = <valor>
+
+"""
+
 #Ejemplos >> 
 
 mi_texto = "Hola de nuevo"
@@ -26,3 +33,5 @@ print(mi_texto)
 print(mi_numero)
 print(variable_mixta)
 print(nueva_variable)
+
+
